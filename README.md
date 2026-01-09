@@ -3,8 +3,7 @@
 ## 👥 Équipe
 
 **Binôme :**
-- [Ton nom]
-- [Nom de ton binôme]
+Krynen & Rousseau
 
 **Formation :** EPSI Bachelor 3 - DevOps  
 **Année :** 2024-2025
